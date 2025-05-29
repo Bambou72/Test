@@ -1,0 +1,8 @@
+{
+  "version": "1.0.2",
+  "notes": [
+    "Correction des bugs de collision",
+    "Ajout du mode coopératif",
+    "Optimisation du chargement"
+  ]
+}
