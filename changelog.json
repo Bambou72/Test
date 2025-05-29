@@ -5,4 +5,8 @@
     "Ajout du mode coopératif",
     "Optimisation du chargement"
   ]
+  "version": "1.0.3",
+  "notes": [
+    "Hello",
+  ]
 }
